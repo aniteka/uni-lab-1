@@ -36,7 +36,7 @@ namespace uni_lab_1
                         }
                         else
                         {
-                            fin.WriteLine("0\n");
+                            fin.WriteLine("0");
                         }
                     }
                 }
